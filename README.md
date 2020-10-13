@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![TalSap github stats](https://github-readme-stats.vercel.app/api?username=talsap&show_icons=true&theme=highcontrast)
+![TalSap github stats](https://github-readme-stats.vercel.app/api?username=talsap&show_icons=true&theme=tokyonight)
 
 <!--
 **talsap/talsap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
