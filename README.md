@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Tarcisio Sapucaia and I have less than 3 years of experience as a developer. I'm living in Brazil and studying civil engineering, but I've always been passionate about programming where I sometimes venture. My idea is to be able to work with both areas, who knows how to be a programmer of specific software for civil engineering.
 
 ![TalSap github stats](https://github-readme-stats.vercel.app/api?username=talsap&show_icons=true&theme=highcontrast)
 
