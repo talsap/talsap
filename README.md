@@ -11,7 +11,5 @@ My name is Tarcisio Sapucaia and I have less than 3 years of experience as a dev
 
 ![TalSap github stats](https://github-readme-stats.vercel.app/api?username=talsap&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talsap&layout=compact)]
-
 <!--
 **talsap/talsap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
