@@ -5,7 +5,7 @@ My name is Tarcisio Sapucaia and I have less than 3 years of experience as a dev
 - 🎓 I’m have a degree in exact sciences at [UFRB](https://ufrb.edu.br/portal/)
 - 🌱 I’m currently working on [etd](https://github.com/talsap/etd) software development 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 👇
 
 [![Facebookpage](https://dyn-qrcode.vercel.app/api?url=https://www.facebook.com/tal.sapucaia)](https://www.facebook.com/tal.sapucaia)
 
