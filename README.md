@@ -6,7 +6,7 @@ Olá pessoal
 
 Meu nome é Tarcisio Sapucaia e tenho mais de 5 anos de experiência como programador. Sou engenheiro civil, mas sempre fui apaixonado por programação onde às vezes me aventuro. Pretendo trabalhar nas duas áreas, talvez me tornando programador de softwares para engenharia civil especificamente.
 
-- 🎓 I’m have a degree in exact sciences at [UFRB](https://ufrb.edu.br/portal/)
+- 🎓 I have a degree in civil engineering at [UFRB](https://ufrb.edu.br/portal/)
 - 🌱 I’m currently working on [EDP](https://github.com/talsap/edp) software development 
 - 📫 How to reach me: 👇
 
