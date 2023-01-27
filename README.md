@@ -1,10 +1,10 @@
 ## Hi there 👋🌎
 
-#### My name is Tarcisio Sapucaia and I have over 8 years of programmer as a experience . I'm a civil engineer, but I've always been passionate about programming where I venture sometimes. I look forward to working in both areas, perhaps becoming a softwares programmer for civil engineering specifically.
+#### My name is Tarcisio Sapucaia, I'm a civil engineer and I have more than 8 years of experience as a programmer. I am passionate about technology and I love programming in my spare time. One day I intend to become a software engineer and work as a full stack developer, mainly for technologies aimed at civil construction.
 
 ## Olá pessoal 👋
 
-#### Meu nome é Tarcisio Sapucaia e tenho mais de 8 anos de experiência como programador. Sou engenheiro civil, mas sempre fui apaixonado por programação onde às vezes me aventuro. Pretendo trabalhar nas duas áreas, talvez me tornando programador de softwares para engenharia civil especificamente.
+#### Meu nome é Tarcisio Sapucaia, sou engenheiro civil e tenho mais de 8 anos de experiência como programador. Sou apaixonado por tecnologia e adoro programar nas horas vagas. Pretendo um dia me tornar engenheiro de software e trabalhar como desenvolvedor full stack, principalmente para tecnologias voltada para a contrução civil.
 
 - 🎓 I have a degree in civil engineering at [UFRB](https://ufrb.edu.br/portal/)
 - 🌱 I’m currently working on [EDP](https://github.com/talsap/edp) software development 
