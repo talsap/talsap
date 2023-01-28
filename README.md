@@ -35,9 +35,9 @@
 <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-323330?style=for-the-badge&logo=c%2B%2B"></img>
 </a>
 
-<!-- <a href="https://www.w3schools.com/java/" target="_blank"> 
-<img alt="Java" src="https://img.shields.io/badge/-Java-323330?style=for-the-badge&logo=java"></img> 
-</a> -->
+<a href="https://www.w3schools.com/java/" target="_blank"> 
+<img alt="Java" src="https://img.shields.io/badge/-Java-323330?style=for-the-badge&logo=oracle"></img> 
+</a>
 
 <a href="https://www.w3schools.com/python/" target="_blank"> 
 <img alt="Python" src="https://img.shields.io/badge/-Python-323330?style=for-the-badge&logo=Python"></img>
