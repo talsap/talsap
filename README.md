@@ -11,9 +11,9 @@
 <div>
 <p align="center">
 <a href="https://github.com/talsap">
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=talsap&show_icons=true&theme=highcontrast"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=talsap&show_icons=true&theme=highcontrast"/>
 <!-- <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=talsap&layout=compact&langs_count=7&theme=highcontrast"/> -->
-<img height="130px" src="http://github-readme-streak-stats.herokuapp.com?user=talsap&theme=highcontrast&border_radius=4"/>
+<img height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=talsap&theme=highcontrast&border_radius=4"/>
 </p>
 </div>
 
