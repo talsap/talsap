@@ -28,7 +28,7 @@
 <p align="left">
   
 <a href="https://www.w3schools.com/c/" target="_blank"> 
-<img alt="C" src="https://img.shields.io/badge/-C-323330?style=for-the-badge&logo=C"></img>
+<img alt="C" src="https://img.shields.io/badge/-C-323330?style=for-the-badge&logo=C" target="_blank"></img>
 </a>
   
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
