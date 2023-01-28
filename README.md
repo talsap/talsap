@@ -99,7 +99,7 @@
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-323330?style=for-the-badge&logo=mysql"></img>
 </a>
 
-<a href="https://www.w3schools.com/sqlite/" target="_blank"> 
+<a href="https://sqlite.org/index.html" target="_blank"> 
 <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-323330?style=for-the-badge&logo=sqlite"></img>
 </a>
 
