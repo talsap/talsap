@@ -106,15 +106,27 @@
 </p>
 </div>
 
+#### Design 🖍
+
+<div>
+<p align="left">
+
+<a href="https://www.adobe.com/br/products/dreamweaver.html" target="_blank"> 
+<img alt="AdobeDreamweaver" src="https://img.shields.io/badge/-Adobe%20Dreamweaver-323330?style=for-the-badge&logo=Adobe%20Dreamweaver"></img>
+</a>
+
+<a href="https://www.adobe.com/br/products/xd/pricing/free-trial.html" target="_blank"> 
+<img alt="AdobeXd" src="https://img.shields.io/badge/-Adobe%20Xd-323330?style=for-the-badge&logo=Adobe%20Xd"></img>
+</a>
+
+</p>
+</div>
+
 #### IDE 👩‍💻
 
 <div>
 <p align="left">
   
-<a href="https://www.adobe.com/br/products/dreamweaver.html" target="_blank"> 
-<img alt="AdobeDreamweaver" src="https://img.shields.io/badge/-Adobe%20Dreamweaver-323330?style=for-the-badge&logo=Adobe%20Dreamweaver"></img>
-</a>
-
 <a href="https://developer.android.com/studio/" target="_blank"> 
 <img alt="AndroidStudio" src="https://img.shields.io/badge/-Android_Studio-323330?style=for-the-badge&logo=android-studio"></img>
 </a>
