@@ -4,7 +4,7 @@
   
 ## Olá pessoal 👋
 
-##### Meu nome é Tarcisio Sapucaia, sou engenheiro civil e tenho mais de 8 anos de experiência como programador. Sou apaixonado por tecnologia e adoro programar nas horas vagas. Pretendo um dia me tornar engenheiro de software e trabalhar como desenvolvedor full stack, principalmente para tecnologias voltada para a contrução civil.
+##### Meu nome é Tarcisio Sapucaia, sou engenheiro civil e tenho mais de 8 anos de experiência como programador. Sou apaixonado por tecnologia e adoro programar nas horas vagas. Pretendo um dia me tornar engenheiro de software e trabalhar como desenvolvedor full stack, principalmente para tecnologias voltadas para a contrução civil.
 
 ## Stats 📈
 
