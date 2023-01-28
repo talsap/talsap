@@ -63,8 +63,8 @@
 <img alt="Node JS" src="https://img.shields.io/badge/-Node.js-323330?style=for-the-badge&logo=nodedotjs">
 </a>
   
-<a href="https://www.w3schools.com/php/" target="_blank"> 
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-323330?style=for-the-badge&logo=php"></img>
+<a href="https://www.apachefriends.org/download.html" target="_blank"> 
+<img alt="Xampp" src="https://img.shields.io/badge/-Xampp-323330?style=for-the-badge&logo=xampp"></img>
 </a>
 
 </p>
