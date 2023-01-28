@@ -10,11 +10,13 @@
 
 <div>
 <p align="center">
+  
 <a href="https://github.com/talsap" target="_blank">
 <img height="160px" src="https://github-readme-stats.vercel.app/api?username=talsap&show_icons=true&theme=highcontrast"/></img>
 <!-- <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=talsap&layout=compact&langs_count=7&theme=highcontrast"/></img> -->
 <img height="160px" src="http://github-readme-streak-stats.herokuapp.com?user=talsap&theme=highcontrast&border_radius=4"/></img>
 </a>
+
 </p>
 </div>
 
@@ -26,7 +28,7 @@
 <p align="left">
   
 <a href="https://www.w3schools.com/c/" target="_blank"> 
-  <img alt="C" src="https://img.shields.io/badge/-C-323330?style=for-the-badge&logo=C"></img>
+<img alt="C" src="https://img.shields.io/badge/-C-323330?style=for-the-badge&logo=C"></img>
 </a>
   
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
@@ -34,8 +36,8 @@
 </a>
 
 <!-- <a href="https://www.w3schools.com/java/" target="_blank"> 
-<img alt="C++" src="https://img.shields.io/badge/-Java-323330?style=for-the-badge&logo=java"></img> -->
-</a>
+<img alt="Java" src="https://img.shields.io/badge/-Java-323330?style=for-the-badge&logo=java"></img> 
+</a> -->
 
 <a href="https://www.w3schools.com/python/" target="_blank"> 
 <img alt="Python" src="https://img.shields.io/badge/-Python-323330?style=for-the-badge&logo=Python"></img>
@@ -56,12 +58,15 @@
 
 <div>
 <p align="left">
-
+  
 <a href="https://nodejs.org/en/" target="_blank"> 
 <img alt="Node JS" src="https://img.shields.io/badge/-Node.js-323330?style=for-the-badge&logo=nodedotjs">
 </a>
   
-  
+<a href="https://www.w3schools.com/php/" target="_blank"> 
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-323330?style=for-the-badge&logo=php"></img>
+</a>
+
 </p>
 </div>
 
@@ -69,7 +74,7 @@
 
 <div>
 <p align="left">
-
+  
 <a href="https://www.w3schools.com/html/" target="_blank"> 
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-323330?style=for-the-badge&logo=html5"></img>
 </a>
@@ -80,8 +85,8 @@
 
 <a href="https://www.w3schools.com/bootstrap/" target="_blank"> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-323330?style=for-the-badge&logo=Bootstrap"></img>
-</a>
 
+</a>
 </p>
 </div>
 
@@ -89,7 +94,7 @@
 
 <div>
 <p align="left">
-
+  
 <a href="https://www.w3schools.com/mysql/" target="_blank"> 
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-323330?style=for-the-badge&logo=mysql"></img>
 </a>
@@ -105,7 +110,7 @@
 
 <div>
 <p align="left">
-
+  
 <a href="https://www.adobe.com/br/products/dreamweaver.html" target="_blank"> 
 <img alt="AdobeDreamweaver" src="https://img.shields.io/badge/-Adobe%20Dreamweaver-323330?style=for-the-badge&logo=Adobe%20Dreamweaver"></img>
 </a>
@@ -119,7 +124,7 @@
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank"> 
-<img alt="VScode" src="https://img.shields.io/badge/-Visual_Studio_Code-323330?style=for-the-badge&logo=visual%20studio%20code"></img>
+<img alt="VScode" src="https://img.shields.io/badge/-VS_Code-323330?style=for-the-badge&logo=visual%20studio%20code"></img>
 </a>
 
 <a href="https://atom.br.uptodown.com/windows/" target="_blank"> 
@@ -129,36 +134,64 @@
 </p>
 </div>
 
-<!--
-- 🎓 I have a degree in civil engineering at [UFRB](https://ufrb.edu.br/portal/)
-- 🌱 I’m currently working on [EDP](https://github.com/talsap/edp) software development 
-- 📫 How to reach me: 👇 -->
+#### OS 💻
 
-<!-- [![Facebookpage](https://dyn-qrcode.vercel.app/api?url=https://www.facebook.com/tal.sapucaia)](https://www.facebook.com/tal.sapucaia) -->
+<div>
+<p align="left">
+  
+<a href="https://www.microsoft.com/pt-br/software-download/windows10/" target="_blank"> 
+<img alt="windows" src="https://img.shields.io/badge/-windows-323330?style=for-the-badge&logo=windows"></img>
+</a>
 
-## Contacts 🙋🏻‍♂️
+<a href="https://ubuntu.com/download/" target="_blank"> 
+<img alt="ubuntu" src="https://img.shields.io/badge/-ubuntu-323330?style=for-the-badge&logo=ubuntu"></img>
+</a>
+
+<a href="https://www.android.com/intl/pt-BR_br/" target="_blank"> 
+<img alt="android" src="https://img.shields.io/badge/-android-323330?style=for-the-badge&logo=android"></img>
+</a>
+
+</p>
+</div>
+
+</br>
+</br>
+
+## Contacts, Games & Social 📱🎮🙋🏻‍♂️
 
 <div>
 <p align="center">
-  
-<a href = "mailto:tarcisiosapucaia27@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></img>
+
+<a href = "mailto:tarcisiosapucaia27@gmail.com" target="_blank">
+<img alt="gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></img>
 </a>
 
 <a href="https://www.linkedin.com/in/tarcisio-sapucaia/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img>
+<img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img>
 </a>
 
 <a href="https://www.instagram.com/tal_sapucaia/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></img>
+<img alt="instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></img>
 </a>
 
 <a href="https://www.facebook.com/tal.sapucaia/" target="_blank">
-<img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></img>
+<img alt="facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></img>
 </a>
 
 <a href="https://www.twitch.tv/tal_sapucaia" target="_blank">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></img>
+<img alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></img>
+</a>
+
+<a href="https://steamcommunity.com/id/tal_sapucaia/" target="_blank"> 
+<img alt="Steam" src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></img>
+</a>
+
+<a href="https://open.spotify.com/user/12149014852/" target="_blank"> 
+<img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></img>
+</a>
+
+<a href="https://twitter.com/tal_sapucaia/" target="_blank"> 
+<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"></img>
 </a>
 
 <!-- <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank">
@@ -173,3 +206,9 @@
 <p align="center"><img src="https://img.shields.io/github/followers/talsap.svg?style=social&label=Follow&maxAge=2592000"/></img></p>
 
 <!-- **talsap/talsap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+- 🎓 I have a degree in civil engineering at [UFRB](https://ufrb.edu.br/portal/)
+- 🌱 I’m currently working on [EDP](https://github.com/talsap/edp) software development 
+- 📫 How to reach me: 👇 -->
+
+<!-- [![Facebookpage](https://dyn-qrcode.vercel.app/api?url=https://www.facebook.com/tal.sapucaia)](https://www.facebook.com/tal.sapucaia) -->
